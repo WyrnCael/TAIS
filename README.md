@@ -1,3 +1,3 @@
 # TAIS
-Ejercicios de la asignatura de Técnicas algorítmicas en ingeniería del software
+Ejercicios de la asignatura de Técnicas Algorítmicas en Ingeniería del Software
 
